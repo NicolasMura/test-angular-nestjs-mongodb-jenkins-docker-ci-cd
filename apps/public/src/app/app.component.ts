@@ -1,10 +1,7 @@
 import { Component } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
+import { Todo } from '@frontend/data';
 
-
-interface Todo {
-  title: string;
-}
 
 @Component({
   selector: 'frontend-root',
