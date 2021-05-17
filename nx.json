@@ -25,6 +25,9 @@
     "public-e2e": {
       "tags": [],
       "implicitDependencies": ["public"]
+    },
+    "api": {
+      "tags": []
     }
   }
 }
